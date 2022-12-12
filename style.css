@@ -1,0 +1,268 @@
+*
+{
+    background-color: azure;
+}
+.p pre
+{
+    font-weight: 1000;
+    font-style: italic;   
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p
+{
+    border-radius: 20px;
+    border: 20px solid black;
+    height: 660px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.con
+{  
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color:white;
+    border-radius: 40px;
+    height: 50px;
+    width: 400px;
+}
+.con:hover
+{
+    transition: 0.3s;
+    background-color: white;
+    color: black;
+    height: 60px;
+}
+
+
+.cc
+{
+    display: flex;
+    gap: 200px;
+}
+.l
+{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ccc
+{
+    padding-top: 100px;
+    background-color: azure;
+    border:  20px solid black;
+    height: 550px;
+    border-radius: 20px;
+}
+.l1
+{
+    padding-left: 480px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.s1
+{
+    padding-left: 450px;
+}
+.conv
+{
+    border-radius: 30px;
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+}
+.conv:hover
+{
+    background-color: white;
+    color: black;  
+    height:60px;  
+}
+.i1
+{
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+}
+.i2
+{
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+}
+.pic
+{
+    padding-left: 520px;
+    display: flex;
+    padding-top: 20px;
+    gap: 280px;
+}
+.pic1
+{
+    height: 40px;
+    width: 80px;
+}
+.pic2
+{
+    height: 42px;
+    width: 80px;
+}
+.ll
+{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tcc
+{
+    padding-top: 100px;
+    background-color: azure;
+    border:  20px solid black;
+    height: 550px;
+    border-radius: 20px;
+}
+.tc
+{
+
+    padding-left: 450px;
+}
+.ll1
+{
+    padding-left: 460px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.i3
+{
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+}
+.i4
+{
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+}
+.pi
+{
+    padding-left: 500px;
+    display: flex;
+    padding-top: 20px;
+    gap: 270px;
+}
+.pic3
+{
+    height: 85px;
+    width: 100px;
+}
+.pic4
+{
+    height: 80px;
+    width: 85px;
+}
+.lcc
+{
+    padding-top: 100px;
+    background-color: azure;
+    border:  20px solid black;
+    height: 550px;
+    border-radius: 20px;
+}
+.lc
+{
+
+    padding-left: 450px;
+}
+.lll
+{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lll1
+{
+    padding-left: 468px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.i5
+{
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+}
+.i6
+{
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 50px;
+    width: 200px;
+}
+.txt
+{
+    padding-left: 70px;
+    font-size: 25px;
+    font-weight: 1000;
+}
+.re 
+{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    color: white;
+    background-color: black;
+    margin-top: 30px;
+    margin-left: 590px;
+    border-radius: 5px;
+    border: 2px solid black;
+    height: 40px;
+    width: 300px;
+    transition: 0.2s;
+}
+.re:hover
+{
+    background-color: white;
+    color: black;
+    height: 50px;
+}
